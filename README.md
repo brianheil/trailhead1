@@ -1,2 +1,2 @@
 # trailhead1
-Changes should be in the changesbranch
+deleted original changesbranch comment, and added this line for new-branch-1
